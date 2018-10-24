@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Robot</string>
+    <string name="exit">再按一次后退键退出程序</string>
+</resources>

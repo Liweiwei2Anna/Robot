@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toast_width">38dp</dimen>
+    <dimen name="toast_bottom_magin">74dp</dimen>
+
+</resources>
